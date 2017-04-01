@@ -1,10 +1,8 @@
-The application must have a database for storing recipes and their calorie values.
+*****DATABASE*****
 
-The application must have a text search function for finding the recipe names within the database and list the correlating recipes.
+*The application must have a class for storing recipes, it's ingredients and their calorie values.
+-The application must have a class for food ingredients and must store their calorie values.
+-The application must have a text search function for finding the recipe names within the database and list the correlating recipes.
 
-The application must have a database for food ingredients and must store their calorie values.
-
-The application must have a calorie calculator that can calculate the total calorie of all entered ingredients.
-
-The application must have a custom recipe creation feature that lets the user create and store their own recipe into the recipes database.
-
+*The application must have a custom recipe creation feature that lets the user create and store their own recipe into the recipes database.
+-The application must have a calorie calculator that can calculate the total calorie of all entered ingredients.
