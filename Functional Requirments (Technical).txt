@@ -1,0 +1,12 @@
+Functional requirments for mobile application:
+- Internet connectivity: because of database the application should be connected to the internet.
+- DataBase connectivity: the application should be connected to the database, which should be hosted on one of theese hostings: - https://www.db4free.net/
+																- http://www.freesqldatabase.com
+																- http://www.freewebhostingarea.com/
+																- http://freemysqlhosting.net/	
+																- https://2bill.tk:1500/billmgr?startpage=vhost/
+User should be able to register and authorize through internet to get private information, to have a back-up copy of diet etc.
+- Registration: registration should be done through user interface, then there must be connection established to db, where the program should write the note about user.
+- Authorization: should also be done through db.
+- Recipes showing: one of the main functions of application is to show recipes.
+- Diet helper: the other one important function.
